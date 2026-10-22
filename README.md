@@ -6,29 +6,9 @@ Estou construindo minha carreira na área de tecnologia, com foco no desenvolvim
 
 Atualmente, estou desenvolvendo meus conhecimentos principalmente em **Python, Django, SQL, HTML e CSS**.
 
-## 🚀 Tecnologias e conhecimentos
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-## 📚 Atualmente estudando
-
-* 🐍 Python
-* 🌐 Django
-* 🗄️ SQL e bancos de dados
-* 🎨 HTML e CSS
-
-## 🎯 Objetivo
+## Objetivo
 
 Busco evoluir constantemente minhas habilidades em tecnologia e transformar o conhecimento adquirido nos estudos em **projetos reais e funcionais**. 
-
-Estou aberta a oportunidades que me permitam aprender, contribuir e crescer profissionalmente na área de tecnologia.
-
 ---
 
 📫 **Contato**
